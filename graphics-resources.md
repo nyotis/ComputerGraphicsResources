@@ -5,6 +5,7 @@
 
 - [Color Space](#color-space)
 - [Desktop Linux Issues](#desktop-linux-issues)
+- [Software Licenses](#software-licenses)
 
 
 ## Color Space
@@ -19,3 +20,7 @@
 ## Desktop Linux Issues
 
 - [Major Linux Problems on the Desktop (2017)](http://itvision.altervista.org/why.linux.is.not.ready.for.the.desktop.current.html)
+
+
+## Software Licenses
+- [Software Licenses in Plain English (2017)](https://tldrlegal.com)
