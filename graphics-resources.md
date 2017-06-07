@@ -10,6 +10,11 @@
 
 ## GLSL
 
+#### Documentation
+
+- [docs.gl Jorge Rodríguez ()](http://docs.gl)
+- [OpenGL, OpenGL ES, WebGL, GLSL, GLSL ES API Tables ()](http://web.eecs.umich.edu/~sugih/courses/eecs487/common/notes/APITables.xml)
+
 #### Tutorials
 
 - [Jason McKesson 'alfonse' (2011)](https://bitbucket.org/alfonse/gltut/wiki/Home)
