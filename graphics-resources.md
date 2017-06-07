@@ -23,4 +23,4 @@
 
 
 ## Software Licenses
-- [Software Licenses in Plain English (2017)](https://tldrlegal.com)
+- [Software Licenses in Plain English ()](https://tldrlegal.com)
