@@ -1,10 +1,10 @@
-# graphics-resources
-
-
+# 3D_2D_graphics_resources
 
 ## Index
 
+
 - [Color Space](#color-space)
+- [Desktop Linux Issues](#desktop-linux-issues)
 
 
 ## Color Space
@@ -14,3 +14,8 @@
 - [Converting Color Depth ()](http://eastfarthing.com/blog/2015-12-19-color/)
 - [Color Models | Intel® Software ()](https://software.intel.com/en-us/node/503873)
 - [LOL Colors - Curated color palette inspiration ()](http://www.lolcolors.com/)
+
+
+## Desktop Linux Issues
+
+- [Major Linux Problems on the Desktop (2017)](http://itvision.altervista.org/why.linux.is.not.ready.for.the.desktop.current.html)
