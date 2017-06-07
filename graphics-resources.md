@@ -1,4 +1,4 @@
-# 3D_2D_graphics_resources
+# 3D | 2D Graphics resources
 
 ## Index
 
