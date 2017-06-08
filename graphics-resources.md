@@ -18,7 +18,8 @@
 #### Tutorials
 
 - [Jason McKesson 'alfonse' (wiki)](https://bitbucket.org/alfonse/gltut/wiki/Home).
-- [Jason McKesson 'alfonse' (source)](https://bitbucket.org/alfonse/)
+- [Jason McKesson 'alfonse' (source)](https://bitbucket.org/alfonse/ | https://github.com/paroj/gltut)
+
 
 ## Color Space
 
