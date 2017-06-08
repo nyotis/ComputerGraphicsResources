@@ -39,8 +39,9 @@
 - [A Brief History of Random Numbers](https://medium.freecodecamp.com/a-brief-history-of-random-numbers-9498737f5b6c)
 
 
-## Desktop Linux Issues
+## Linux
 
+- [The Linux man-pages project](https://www.kernel.org/doc/man-pages/) 
 - [Major Linux Problems on the Desktop (2017)](http://itvision.altervista.org/why.linux.is.not.ready.for.the.desktop.current.html)
 
 
