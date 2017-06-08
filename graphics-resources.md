@@ -5,6 +5,7 @@
 
 - [Color Space](#color-space)
 - [GLSL](#glsl)
+- [Random Numbers](#random-numbers)
 - [Desktop Linux Issues](#desktop-linux-issues)
 - [Software Licenses](#software-licenses)
 
@@ -31,6 +32,11 @@
 - [Converting Color Depth ()](http://eastfarthing.com/blog/2015-12-19-color/)
 - [Color Models | Intel® Software ()](https://software.intel.com/en-us/node/503873)
 - [LOL Colors - Curated color palette inspiration ()](http://www.lolcolors.com/)
+
+## [Random Numbers]
+
+- [PCG, A Family of Better Random Number Generators | PCG, A Better Random Number Generator](http://www.pcg-random.org)
+- [A Brief History of Random Numbers](https://medium.freecodecamp.com/a-brief-history-of-random-numbers-9498737f5b6c)
 
 
 ## Desktop Linux Issues
