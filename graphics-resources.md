@@ -33,7 +33,7 @@
 - [Color Models | Intel® Software ()](https://software.intel.com/en-us/node/503873)
 - [LOL Colors - Curated color palette inspiration ()](http://www.lolcolors.com/)
 
-## [Random Numbers]
+## Random Numbers
 
 - [PCG, A Family of Better Random Number Generators | PCG, A Better Random Number Generator](http://www.pcg-random.org)
 - [A Brief History of Random Numbers](https://medium.freecodecamp.com/a-brief-history-of-random-numbers-9498737f5b6c)
