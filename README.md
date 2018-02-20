@@ -1,1 +1,1 @@
-documenting stuff that will hopefully persevere 
+Computer Graphics Resources -- March 2018
