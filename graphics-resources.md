@@ -1,5 +1,9 @@
 # 3D | 2D Graphics resources
 
+## Beginner's Guide
+
+- [Angelo Pesce](https://docs.google.com/document/d/1srv0kGsZx5g54QvbkH1PWHHCYiJpddHn8qJLbPqJH_c/edit#heading=h.u45nsga4ajih).
+
 ## Index
 
 
