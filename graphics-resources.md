@@ -4,6 +4,12 @@
 
 - [Angelo Pesce](https://docs.google.com/document/d/1srv0kGsZx5g54QvbkH1PWHHCYiJpddHn8qJLbPqJH_c/edit#heading=h.u45nsga4ajih).
 
+
+## Graphics Pipeline
+
+- [Fabian 'ryg' Giesen](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/).
+
+
 ## Index
 
 
